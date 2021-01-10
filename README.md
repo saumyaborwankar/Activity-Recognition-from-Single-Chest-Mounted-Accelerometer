@@ -12,3 +12,7 @@ Model used Knearest Neighbors: As it is robust with regard to the search space; 
 
 Feature engineering was done to improve accuracy score. Explained in Jupyter notebook
 Model test accuracy - ~80%
+
+
+An app was made for deployment which is currently being deployed on heroku.
+<img src='https://github.com/saumyaborwankar/Activity-Recognition-from-Single-Chest-Mounted-Accelerometer/blob/main/app.JPG'</img>
