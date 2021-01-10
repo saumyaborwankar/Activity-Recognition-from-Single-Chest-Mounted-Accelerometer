@@ -15,4 +15,4 @@ Model test accuracy - ~80%
 
 
 An app was made for deployment which is currently being deployed on heroku.
-<img src='https://github.com/saumyaborwankar/Activity-Recognition-from-Single-Chest-Mounted-Accelerometer/blob/main/app.JPG'</img>
+![App image](https://github.com/saumyaborwankar/Activity-Recognition-from-Single-Chest-Mounted-Accelerometer/blob/main/app.JPG)
