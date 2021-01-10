@@ -11,7 +11,7 @@ Features used - 1: Working at Computer
 Model used Knearest Neighbors: As it is robust with regard to the search space; for instance, classes don't have to be linearly separable.
 
 Feature engineering was done to improve accuracy score. Explained in Jupyter notebook
-Model test accuracy - ~80%
+Model test accuracy ~80%
 
 
 An app was made for deployment which is currently being deployed on heroku.
